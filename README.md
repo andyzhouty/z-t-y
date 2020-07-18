@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 I'm Andy Zhou, a junior high student in Lansheng Fudan Middle School
+🔭 I'm currently working on project LSFD202201V3.
+🌱 I'm currently learning Flask.
+⚡ Fun fact: Do you know I have a classmate here? 
+
