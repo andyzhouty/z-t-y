@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I'm Andy Zhou, a junior high student in Lansheng Fudan Middle School
+😄 I'm Andy Zhou, a junior middle school student in Lansheng Fudan Middle School.
 
-🔭 I'm currently working on project LSFD202201V3.
+🔭 I'm currently working on project [Flog](https://github.com/z-t-y/flog).
 
 🌱 I'm currently learning Flask.
 
 ⚡ Fun fact: Do you know I have a classmate here? 
 
+[![z-t-y's github stats](https://github-readme-stats.vercel.app/api?username=z-t-y)](https://github.com/z-t-y/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-t-y&hide=mako&layout=compact)](https://github.com/z-t-y/github-readme-stats)
