@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🔭 I'm currently working on project [Flog](https://github.com/z-t-y/flog).
 
-🌱 I'm currently learning Flask.
+🌱 I'm currently learning Golang.
 
 ⚡ Fun fact: Do you know I have a classmate here? 
 
