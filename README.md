@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Do you know I have a classmate here? 
 
-[![z-t-y's github stats](https://github-readme-stats.vercel.app/api?username=z-t-y)](https://github.com/z-t-y/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-t-y&hide=mako&layout=compact)](https://github.com/z-t-y/github-readme-stats)
+[![z-t-y's github stats](https://github-readme-stats.vercel.app/api?username=z-t-y)](https://github.com/z-t-y)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-t-y&hide=mako&layout=compact)](https://github.com/z-t-y)
