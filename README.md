@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-t-y&hide=mako&layout=compact)](https://github.com/z-t-y)
 
 <div align="center">
+
   ![Python](https://img.shields.io/badge/-python-blue?logo=python&style=for-the-badge&logoColor=white)
   ![Flask](https://img.shields.io/badge/-flask-white?logo=flask&style=for-the-badge&logoColor=black)
   ![Golang](https://img.shields.io/badge/-golang-blue?logo=go&style=for-the-badge&logoColor=white)
+
 </div>
