@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 😄 I'm Andy Zhou, a junior middle school student in Lansheng Fudan Middle School.
 
-🔭 I'm currently working on project [Flog](https://github.com/z-t-y/flog).
+🔭 I'm currently working on project [Flogo](https://github.com/z-t-y/flogo).
 
 🌱 I'm currently learning Golang.
 
@@ -24,3 +24,9 @@ Here are some ideas to get you started:
 
 [![z-t-y's github stats](https://github-readme-stats.vercel.app/api?username=z-t-y&show_icons=true)](https://github.com/z-t-y)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-t-y&hide=mako&layout=compact)](https://github.com/z-t-y)
+
+<div align="center">
+  ![Python](https://img.shields.io/badge/-python-blue?logo=python&style=for-the-badge&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-flask-white?logo=flask&style=for-the-badge&logoColor=black)
+  ![Golang](https://img.shields.io/badge/-golang-blue?logo=go&style=for-the-badge&logoColor=white)
+</div>
