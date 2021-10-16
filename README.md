@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **z-t-y/z-t-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 🌱 I'm currently learning Golang.
 
 ⚡ Fun fact: Do you know I have a classmate here? 
+
+### Meetings
+
+I've attended PyCon China 2021.
+
+### My tech stacks
 
 [![z-t-y's github stats](https://github-readme-stats.vercel.app/api?username=z-t-y&show_icons=true)](https://github.com/z-t-y)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-t-y&hide=mako&layout=compact)](https://github.com/z-t-y)
