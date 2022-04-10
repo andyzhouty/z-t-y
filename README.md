@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 😄 I'm Andy Zhou, a junior middle school student in Lansheng Fudan Middle School.
 
-🔭 I'm currently working on project [Djask](https://github.com/z-t-y/djask).
+🔭 I'm currently working on my school work.
 
+<!--
 🌱 I'm currently learning Golang and ReactJS.
+-->
 
 ⚡ Fun fact: Do you know I have a classmate here? 
 
