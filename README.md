@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I'm Andy Zhou, a junior middle school student in Lansheng Fudan Middle School.
+😄 I'm Andy Zhou, a junior middle school student in Lansheng Middle School (formerly Lansheng Fudan Middle School).
 
 🔭 I'm currently working on my school work.
 
