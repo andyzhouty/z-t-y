@@ -1,28 +1,12 @@
 ## Hi there 👋
 
-<!--
-**z-t-y/z-t-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 I'm Andy Zhou, a student in Shanghai, just graduated from LSFD Middle School.
 
-Here are some ideas to get you started:
+🔭 I'm currently working on [Djask](https://github.com/z-t-y/Djask).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-😄 I'm Andy Zhou, a junior middle school student in Lansheng Middle School (formerly Lansheng Fudan Middle School).
+🌱 I'm currently learning Rust.
 
-🔭 I'm currently working on my school work.
-
-<!--
-🌱 I'm currently learning Golang and ReactJS.
--->
-
-⚡ Fun fact: Do you know I have a classmate here? 
+⚡ Fun fact: Do you know I've got two classmates here? 
 
 ### Meetings
 
@@ -37,6 +21,6 @@ I've attended PyCon China 2021.
 
   ![Python](https://img.shields.io/badge/-python-blue?logo=python&style=for-the-badge&logoColor=white)
   ![Flask](https://img.shields.io/badge/-flask-white?logo=flask&style=for-the-badge&logoColor=black)
-  ![Golang](https://img.shields.io/badge/-golang-blue?logo=go&style=for-the-badge&logoColor=white)
+  ![React](https://img.shields.io/badge/-react-282c34?logo=react&style=for-the-badge&logoColor=61dafb)
 
 </div>
