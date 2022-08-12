@@ -12,7 +12,7 @@
 
 I've attended PyCon China 2021.
 
-### My tech stacks
+### Stats
 
 [![z-t-y's github stats](https://github-readme-stats.vercel.app/api?username=z-t-y&show_icons=true)](https://github.com/z-t-y)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-t-y&hide=mako&layout=compact)](https://github.com/z-t-y)
