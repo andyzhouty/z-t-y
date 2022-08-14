@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-😄 I'm Andy Zhou, a student in Shanghai, just graduated from LSFD Middle School.
+😄 I'm Andy Zhou, a student in Shanghai, just graduated from LSFD Middle School, going to YPGZ.
 
-🔭 I'm currently working on [Djask](https://github.com/z-t-y/Djask).
+🔭 I'm currently working on nothing except for school work.
 
-🌱 I'm currently learning Rust.
+🌱 I'm currently learning nothing.
 
 ⚡ Fun fact: Do you know I've got two classmates here? 
 
